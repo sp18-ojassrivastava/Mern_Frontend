@@ -6,3 +6,5 @@ Hello, I will post day by day the concepts I will learn related to Frontend and 
     => HTML links are defined with the (a) tag. The link's destination is specified in the href attritube. Attributes are used to provide additional information about HTML elements. <br>
     => HTML images are defined with the (img) tag. The source file (src), alternative text (alt), width and height are provided as attributes. <br>
     => The HTML element is everything from the start tag to the end tag. <br>
+    => Some elements have no content like the "br" element. These elements are called empty elements. Empty elements do not have an end tag. <br>
+    => 
